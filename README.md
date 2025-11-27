@@ -1,4 +1,4 @@
-## Hi there 👋
+
 👋 Hi, I’m Deepa
 Technical Project Manager | Program Manager | Software Implementation Specialist
 
