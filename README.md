@@ -11,9 +11,13 @@ I’m a Technical Project Manager / Program Manager with 10+ years of experience
 I bring a unique blend of:
   
   💼 Project & Program Management (PMP-certified)
+  
   🧩 Product & Process Thinking
+  
   🛠️ Technical understanding from my IT & engineering background
+  
   🌍 Experience collaborating with global teams across time zones
+  
   🤝 Stakeholder and client management expertise
 
 I love connecting the dots between business needs and technical execution — helping teams build clear plans, reduce ambiguity, and deliver results.
