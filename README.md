@@ -27,10 +27,15 @@ I love connecting the dots between business needs and technical execution — he
 I’m using GitHub to expand and showcase my technical skillset, especially around:
 
   API integrations & automation
+  
   LLMs & Generative AI
+  
   Cloud & system architecture basics
+  
   Data workflows
+  
   Technical documentation & developer-friendly communication
+  
   Lightweight prototypes & technical experimentation
 
 This space is where I document what I’m learning — one small, meaningful project at a time.
